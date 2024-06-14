@@ -9,7 +9,7 @@ const siteMetadata = {
   siteUrl: 'https://codeinfo.vercel.app',
   siteRepo: 'https://github.com/TharinduWijayarathna/codeinfo',
   siteLogo: '/static/images/logo.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/time-machine.png',
   mastodon: 'https://mastodon.social/@mastodonuser',
   // email: 'address@yoursite.com',
   // github: 'https://github.com',
