@@ -80,7 +80,6 @@ export default function Home({ posts }) {
           </Link>
         </div>
       )}
-      {siteMetadata.newsletter?.provider}
     </>
   )
 }
