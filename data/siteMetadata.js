@@ -10,7 +10,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/TharinduWijayarathna/codeinfo',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/time-machine.png',
-  mastodon: 'https://mastodon.social/@mastodonuser',
+  // mastodon: 'https://mastodon.social/@mastodonuser',
   // email: 'address@yoursite.com',
   // github: 'https://github.com',
   // x: 'https://twitter.com/x',
