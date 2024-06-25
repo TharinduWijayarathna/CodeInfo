@@ -1,6 +1,6 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Tharindu\'s Blog',
+  title: 'CodeInfo Blog',
   author: 'Tharindu Wijayarathna',
   headerTitle: 'CodeInfo',
   description: 'A blog about software engineering, programming, and web development.',
